@@ -1,0 +1,93 @@
+body{
+    background-color: black;
+}
+#general{
+    height: 1500px;
+    width: 1000px;
+    background-color: rgb(241, 236, 231);
+}
+#panel1 > h1{
+    text-align:center ;
+    padding: 10px 0;
+}
+#panel1{
+    float:left;
+    margin: 20px;
+    margin-top:10px ;
+    height:200px ;
+    width:600px ;
+    background-color: rgb(216, 199, 231);
+}
+
+#panel2{
+  
+    position: absolute;
+    right: 170px; ;
+    margin: 20px;
+    margin-top:10px ;
+    height:1480px ;
+    width:300px ;
+    background-color: rgb(245, 216, 245);
+}  
+.titulo{
+    
+    width:280px ;
+    height:50px;
+    background-color: rgb(243, 243, 243);
+}
+.titulo > h3{
+    text-align:center ;
+    padding: 14px 0;
+    color:gray ;
+}
+.titulo > h1{
+    text-align:center ;
+    padding: 10px 0;
+    color:gray ;}
+
+#panel2 > img{
+    margin: 5px;
+    margin: top 5px; ;
+    height:160px;
+    width:150px;
+    border-radius:150px;
+}
+.titulo{
+    margin-top: auto;
+    text-align: left;
+}
+ul{
+    text-align: left;
+
+}
+#Laboral{
+    float: left;
+    margin: 20px;
+    margin-top:10px ;
+    height:50px ;
+    width:600px ;
+    background-color:rgb(216, 199, 231);}
+
+#Laboral > h3{
+    text-align:center ;
+    padding: 4px 3;
+    color: gray;
+}
+#general > ul{
+    text-align: left;
+}
+#Hobbies {
+    float: left;
+    margin: 20px;
+    margin-top:10px ;
+    height:50px ;
+    width:600px ;
+    background-color:rgb(216, 199, 231);}
+
+#Hobbies > h3 {
+   
+        text-align:center ;
+        padding: 4px 3;
+        color: gray;
+}
+
